@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi 👋, I'm Abhishek Ranjan
 
-<!--
-**abhishekranjan92581/abhishekranjan92581** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student (2028)
+💻 App Developer | 🤖 Machine Learning Enthusiast
+📍 Silicon Institute of Technology, Sambalpur
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 👨‍💻 Passionate about building real-world applications
+* 📱 Interested in App Development & AI/ML
+* 🧠 Strong interest in Data Structures & Algorithms
+* 🌱 Currently learning Full Stack Development
+
+---
+
+## 🛠️ Tech Stack
+
+* Languages: C, C++, Java, Python
+* Web: HTML, CSS, JavaScript
+* Tools: Git, GitHub, VS Code
+
+---
+
+## 📌 Projects
+
+* 🔗 Portfolio Website: https://abhishekranjan92581.github.io/portfolio/
+
+---
+
+## 📫 Connect With Me
+
+* 📧 Email: [abhishekranjan92581@gmail.com](mailto:abhishekranjan92581@gmail.com)
+* 🔗 LinkedIn: https://linkedin.com/in/abhishekranjan92581
+* 📸 Instagram: https://instagram.com/abhishek_ranjan_27_
+
+---
+
+## 📊 GitHub Stats
+
+![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishekranjan92581\&show_icons=true\&theme=radical)
+
+---
+
+⭐ *"Striving to become a better developer every day"*
