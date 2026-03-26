@@ -17,7 +17,7 @@
 
 ## 🛠️ Tech Stack
 
-* Languages: C, C++, Java, Python
+* Languages: C, Java, Python, Dart(Flutter)
 * Web: HTML, CSS, JavaScript
 * Tools: Git, GitHub, VS Code
 
